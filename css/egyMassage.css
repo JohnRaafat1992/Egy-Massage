@@ -372,6 +372,10 @@ ul {
     height: 664px;
     width: 100%;
 }
+@media (max-width:767px) {
+    .container1 {
+        height: 811px;
+    }
 .container1 .overlay {
     position: absolute;
     left: 0;
@@ -623,7 +627,7 @@ ul {
     }
     @media(max-width:767px) {
 .about-section {
-    margin-top: -149px;
+    margin-top: -3px;
 }
     }
     @media(max-width:767px) {
