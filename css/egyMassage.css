@@ -658,8 +658,7 @@ ul {
     }
         @media(max-width:767px) {
 .about-section ul {
-    text-align: center;
-    width: 90%;
+    width: 100%;
 }
     }
     .about-section ul li {
@@ -678,7 +677,7 @@ ul {
     }
 @media(max-width:500px) {
 .about-section ul i  {
-    margin-left: -250px;
+    margin-left: -300px;
 }
     }
     .about-section ul h5 {
@@ -695,6 +694,7 @@ ul {
 @media(max-width:767px) {
 .about-section ul h5{
     margin-top: -10px;
+	margin-left: 50px;
 }
     }
     .patrick {
