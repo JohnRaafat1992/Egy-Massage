@@ -555,7 +555,7 @@ ul {
     }
 @media(max-width:767px) {
     .services {
-    margin-top: -250px;
+    margin-top: -110px;
     }
 }
 @media(min-width:767px) {
@@ -623,7 +623,7 @@ ul {
     }
     @media(max-width:767px) {
 .about-section {
-    margin-top: -100px;
+    margin-top: -149px;
 }
     }
     @media(max-width:767px) {
@@ -731,7 +731,7 @@ ul {
 }
 @media (max-width: 767px) {
 .portfolio {
-    margin-top: -80px;
+    margin-top: -237px;
 }
 }
 @media(min-width:767px) {
