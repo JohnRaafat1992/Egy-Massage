@@ -372,10 +372,11 @@ ul {
     height: 664px;
     width: 100%;
 }
-@media (max-width:767px) {
-    .container1 {
-        height: 811px;
+@media(max-width:767px) {
+.container1 {
+    height: 811px;
     }
+}
 .container1 .overlay {
     position: absolute;
     left: 0;
